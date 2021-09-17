@@ -1,0 +1,6 @@
+gunicorn
+Flask
+Jinja2
+Werkzeug
+Flask-Cors==3.0.9
+mysql-connector-python==8.0.5
